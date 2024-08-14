@@ -1,0 +1,12 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterHewnFenceGates", "BetterHewnFenceGates.csproj", "{F30A8F45-CEC2-4258-B494-FBAE6C826E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30A8F45-CEC2-4258-B494-FBAE6C826E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30A8F45-CEC2-4258-B494-FBAE6C826E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

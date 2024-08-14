@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "name": "BetterHewnFenceGates",
+  "modid": "betterhewnfencegates",
+  "version": "1.0.0",
+  "description": "Allow hewn fence gates to be placed in all cardinal directions",
+  "authors": ["BillyGalbreath"],
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}
