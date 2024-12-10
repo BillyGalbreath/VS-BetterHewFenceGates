@@ -17,11 +17,8 @@
 
     <ItemGroup>
         <Reference Include="$(VINTAGE_STORY)/**/*.dll" Private="false" />
+        <Folder Include="resources\assets\" />
         <None Include="LICENSE;README.md;resources/**" CopyToOutputDirectory="PreserveNewest" Pack="true" PackagePath="" Link="%(RecursiveDir)%(Filename)%(Extension)" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="resources\assets\" />
     </ItemGroup>
 
     <Target Name="Package" AfterTargets="PostBuildEvent">
